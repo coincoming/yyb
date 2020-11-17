@@ -16,6 +16,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 // @EnableScheduling
 public class YebApplication {
 
+	//弱鸡组员怎么还不提交
 	public static void main(String[] args) {
 		SpringApplication.run(YebApplication.class,args);
 	}
